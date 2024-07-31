@@ -1,6 +1,6 @@
 # Week1Q5
 The Calculator provides basic arithmetic operations: addition, subtraction, multiplication, and division.
-The main function interacts with the user to perform these operations based on user input.The program prompts the user to enter two numbers and the desired arithmetic operation. Based on the user's input, calls the corresponding function (add, subtract, multiply, divide) to perform the calculation. If an invalid operation is entered, displays an error message.
+The main function interacts with the user to perform these operations based on user input. The program prompts the user to enter two numbers and the desired arithmetic operation. Based on the user's input, calls the corresponding function (add, subtract, multiply, divide) to perform the calculation. If an invalid operation is entered, displays an error message.
 
 Header files included are:
 #include <iostream>: Includes the standard input-output stream library.
